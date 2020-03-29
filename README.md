@@ -3,4 +3,4 @@ Hello-World
 
 my first repository
 
-Test Test Test
+My name is Simona. I like singing, physics and data science. :) 
